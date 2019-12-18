@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/danieldamasceno/workspace/libs cucumber/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/danieldamasceno/workspace/libs cucumber/cucumber-expressions-6.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/danieldamasceno/workspace/libs cucumber/cucumber-java-1.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/danieldamasceno/workspace/libs cucumber/cucumber-java.jar"/>
+	<classpathentry kind="lib" path="/Users/danieldamasceno/workspace/libs cucumber/cucumber-jvmFormatter.jar"/>
+	<classpathentry kind="lib" path="/Users/danieldamasceno/workspace/libs cucumber/cucumber-jvmFormatter3.jar"/>
+	<classpathentry kind="lib" path="/Users/danieldamasceno/workspace/libs cucumber/cucumber-jvmFormatter4.jar"/>
+	<classpathentry kind="lib" path="/Users/danieldamasceno/workspace/libs cucumber/cucumber-jvmFormatter5.jar"/>
+	<classpathentry kind="lib" path="/Users/danieldamasceno/workspace/libs cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="/Users/danieldamasceno/workspace/libs cucumber/junit-4.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
